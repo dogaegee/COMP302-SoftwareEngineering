@@ -1,4 +1,5 @@
 COMP302 - Software Engineering - Term Project
+
 Contributors:
 - Ahmet Talha Akgül
 - Betül Demirtaş
